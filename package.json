@@ -1,0 +1,29 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "Mean Shop Angular 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TienNguyen96/MeanShop-Angular4.git"
+  },
+  "keywords": [
+    "mean4"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TienNguyen96/MeanShop-Angular4/issues"
+  },
+  "homepage": "https://github.com/TienNguyen96/MeanShop-Angular4#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.0"
+  }
+}
